@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Step01_IO_and_Arithmetic.main" target="11" />
+      <module name="Step01_IO_and_Arithmetic.test" target="11" />
+      <module name="Step05_String_main" target="11" />
+      <module name="Step05_String_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
