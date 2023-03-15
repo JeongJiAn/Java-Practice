@@ -5,8 +5,6 @@
       <module name="Steo08_Basic_Mathematics" target="11" />
       <module name="Steo08_Basic_Mathematics_main" target="11" />
       <module name="Steo08_Basic_Mathematics_test" target="11" />
-      <module name="Step01_IO_and_Arithmetic.main" target="11" />
-      <module name="Step01_IO_and_Arithmetic.test" target="11" />
       <module name="Step05_String_main" target="11" />
       <module name="Step05_String_test" target="11" />
     </bytecodeTargetLevel>
