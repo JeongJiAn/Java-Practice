@@ -4,9 +4,8 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Baekjoon/Step01_IO_and_Arithmetic" />
-        <option name="gradleJvm" value="11" />
+        <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Baekjoon/Step01_IO_and_Arithmetic" />
@@ -15,9 +14,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Baekjoon/Step03_Loop" />
-        <option name="gradleJvm" value="11" />
+        <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Baekjoon/Step03_Loop" />
@@ -25,9 +23,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Baekjoon/Step04_1D_Array" />
-        <option name="gradleJvm" value="11" />
+        <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Baekjoon/Step04_1D_Array" />
@@ -35,7 +32,6 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Baekjoon/Step05_String" />
         <option name="modules">
           <set>
@@ -44,9 +40,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Baekjoon/Step07_2D_Array" />
-        <option name="gradleJvm" value="11" />
+        <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Baekjoon/Step07_2D_Array" />
@@ -54,9 +49,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/Baekjoon/Step08_Basic_Mathematics" />
-        <option name="gradleJvm" value="11" />
+        <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/Baekjoon/Step08_Basic_Mathematics" />
@@ -64,7 +58,6 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/_01_Hello_Java" />
         <option name="gradleJvm" value="11" />
         <option name="modules">
