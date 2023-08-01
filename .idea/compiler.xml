@@ -7,6 +7,9 @@
       <module name="Steo08_Basic_Mathematics_test" target="11" />
       <module name="Step05_String_main" target="11" />
       <module name="Step05_String_test" target="11" />
+      <module name="Step09_Divisor_Multiple_Prime.test" target="17" />
+      <module name="untitled_main" target="17" />
+      <module name="untitled_test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
