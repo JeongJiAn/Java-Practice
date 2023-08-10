@@ -128,6 +128,16 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Baekjoon/Step14_Set_Map" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Baekjoon/Step14_Set_Map" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/_01_Hello_Java" />
         <option name="gradleJvm" value="11" />
         <option name="modules">
