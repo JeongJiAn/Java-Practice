@@ -17,8 +17,34 @@ public class N2447 {
                     }
                 }
             }
-            makeStar(N / 3, N);
 
+            if (N != prev) {
+                for (int i = 0; i < N; i++) {
+                    for (int j = 0; j < N; j++) {
+                        for (int a = 0; a < 3; a++) {
+                            for (int b = 0; b < 3; b++) {
+                                if (!(i + a * prev / 3 >= prev / 3 && i + a * prev / 3 < 2 * prev / 3 && j + b * prev / 3 >= prev / 3 && j + b * prev / 3 < 2 * prev / 3)) {
+                                    star[i + a * prev / 3][j + b * prev / 3] = star[i][j];
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            makeStar(N / 3, N);
+            if (N != prev) {
+                for (int i = 0; i < N; i++) {
+                    for (int j = 0; j < N; j++) {
+                        for (int a = 0; a < 3; a++) {
+                            for (int b = 0; b < 3; b++) {
+                                if (!(i + a * prev / 3 >= prev / 3 && i + a * prev / 3 < 2 * prev / 3 && j + b * prev / 3 >= prev / 3 && j + b * prev / 3 < 2 * prev / 3)) {
+                                    star[i + a * prev / 3][j + b * prev / 3] = star[i][j];
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 
